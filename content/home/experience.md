@@ -29,7 +29,7 @@ experience:
     location: Munich, Germany
     date_start: '2020-05-01'
     date_end: '2021-06-01'
-    description: stuff
+    description: 'Research project: Multi-fidelity robust design optimization using intrusive non-linear Model Order Reduction'
 
   - title: Graduate Student Assistant
     company: Hydromechanics Chair — Technical University of Munich
