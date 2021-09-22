@@ -17,35 +17,35 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 
-- description: 90%
-  icon: python
+- icon: python
   icon_pack: fab
   name: Python
+# description: 90%
 
-- description: 95%
-  icon: file-alt
+- icon: file-alt
   icon_pack: fas
   name: LaTeX
+# description: 95%
 
 - icon: terminal
   icon_pack: fas
   name: Linux
-  description: 70%
+  # description: 70%
 
 - icon: laptop-code
   icon_pack: fas
   name: C++
-  description: 65%
+  # description: 65%
 
 - icon: laptop-code
   icon_pack: fas
   name: MATLAB
-  description: 85%
+  # description: 85%
 
 - icon: git
   icon_pack: fab
   name: Git
-  description: 70%
+  # description: 70%
 
 # Uncomment to use emoji icons.
 # - icon: ":smile:"
