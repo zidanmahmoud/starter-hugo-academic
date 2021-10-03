@@ -14,13 +14,13 @@ superuser: true
 #   url: https://www.bgu.tum.de/en/cm/home/
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio:
 
 # Interests to show in About widget
-interests:
-- Finite Element Analysis
-- Material Modelling
-- Model Order Reduction
+# interests:
+# - Finite Element Analysis
+# - Material Modelling
+# - Model Order Reduction
 
 # Education to show in About widget
 education:
@@ -54,7 +54,7 @@ social:
   link: https://github.com/zidanmahmoud
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
+# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
