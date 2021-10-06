@@ -34,7 +34,7 @@ item:
   title: Pandas
   url: "https://www.kaggle.com/learn/pandas"
 
-- certificate_url: ""
+- certificate_url: "certificates/data-cleaning.png"
   date_end: ""
   date_start: "2021-10-01"
   description: "Handling Missing Values, Scaling and Normalization, Parsing Dates, Encoding, Inconsistent Data Entry"

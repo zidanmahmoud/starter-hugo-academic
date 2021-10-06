@@ -16,6 +16,9 @@ main:
   - name: Projects
     url: '#projects'
     weight: 40
+  - name: Certificates
+    url: '#accomplishments'
+    weight: 50
   # - name: Talks
   #   url: '#talks'
   #   weight: 40
