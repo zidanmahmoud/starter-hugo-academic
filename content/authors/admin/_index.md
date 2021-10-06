@@ -53,12 +53,12 @@ social:
   icon_pack: fab
   link: https://github.com/zidanmahmoud
 
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
-# and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: uploads/cv.pdf
+# # Link to a PDF of your resume/CV.
+# # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
+# # and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: uploads/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -72,4 +72,4 @@ highlight_name: true
 I am a M.Sc. graduate in [Computational Mechanics](https://www.bgu.tum.de/come/home/) at the Technical University of Munich with a B.Sc. degree in Civil Engineering at Kuwait University. During my studies and part-time work at the university, I have developed knowledge and interest in software development, Finite Element simulations, Computational Fluid Analysis, and Engineering applications. Currently, I am looking for working full-time on interesting projects.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/cv.pdf" "newtab" >}}Resumé{{< /staticref >}}
+<!-- {{< icon name="download" pack="fas" >}} {{< staticref "uploads/cv.pdf" "newtab" >}}Resumé{{< /staticref >}} -->

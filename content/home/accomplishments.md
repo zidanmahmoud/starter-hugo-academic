@@ -2,7 +2,7 @@
 # An instance of the Accomplishments widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: accomplishments
-active: false #TODO
+active: true #TODO
 
 # This file represents a page section.
 headless: true
@@ -11,7 +11,8 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+# title: 'Accomplish&shy;ments'
+title: Courses
 subtitle:
 
 # Date format
@@ -24,31 +25,51 @@ date_format: "01.2006"
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: "certificates/pandas.png"
   date_end: ""
-  date_start: "2021-01-25"
+  date_start: "2021-10-01"
+  description: "Indexing, Selecting, Assigning, Functions, Maps, Grouping, Sorting, Data-types, Renaming, Combining"
+  organization: Kaggle
+  organization_url: https://www.kaggle.com
+  title: Pandas
+  url: "https://www.kaggle.com/learn/pandas"
+
+- certificate_url: ""
+  date_end: ""
+  date_start: "2021-10-01"
+  description: "Handling Missing Values, Scaling and Normalization, Parsing Dates, Encoding, Inconsistent Data Entry"
+  organization: Kaggle
+  organization_url: https://www.kaggle.com
+  title: Pandas Data Cleaning
+  url: https://www.kaggle.com/learn/data-cleaning
+
+- certificate_url: ""
+  date_end: ""
+  date_start: "2021-10-01"
+  description: "JOINs and UNIONs, Analytic Functions, Nested and Repeated Data, Writing Efficient Queries"
+  organization: Kaggle
+  organization_url: https://www.kaggle.com
+  title: "Advanced SQL: BigQuery"
+  url: https://www.kaggle.com/learn/advanced-sql
+
+- certificate_url: ""
+  date_end: ""
+  date_start: "2021-10-01"
+  description: "Manipulating Containers with the Docker Client, Building Custom Images Through Docker Server, CI/CD in AWS, Multi-Container Deployments to AWS, Kubernetes"
+  organization: Udemy
+  organization_url: https://www.udemy.com
+  title: "Docker and Kubernetes"
+  url: https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/
+
+- certificate_url: ""
+  date_end: ""
+  date_start: "2021-10-01"
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
-  url: ""
+  title: "Databases and SQL for Data Science with Python"
+  url: https://www.coursera.org/learn/sql-data-science
 
 design:
-  columns: '2' 
+  columns: '2'
 ---
