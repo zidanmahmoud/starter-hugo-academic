@@ -30,7 +30,7 @@ item:
   date_start: "2021-10-01"
   description: "Indexing, Selecting, Assigning, Functions, Maps, Grouping, Sorting, Data-types, Renaming, Combining"
   organization: Kaggle
-  organization_url: https://www.kaggle.com
+  organization_url: https://www.kaggle.com/learn
   title: Pandas
   url: "https://www.kaggle.com/learn/pandas"
 
@@ -39,16 +39,25 @@ item:
   date_start: "2021-10-01"
   description: "Handling Missing Values, Scaling and Normalization, Parsing Dates, Encoding, Inconsistent Data Entry"
   organization: Kaggle
-  organization_url: https://www.kaggle.com
+  organization_url: https://www.kaggle.com/learn
   title: Pandas Data Cleaning
   url: https://www.kaggle.com/learn/data-cleaning
 
-- certificate_url: ""
+# - certificate_url: "certificates/intro-to-SQL.png"
+#   date_end: ""
+#   date_start: "2021-10-01"
+#   description: ""
+#   organization: Kaggle
+#   organization_url: https://www.kaggle.com/learn
+#   title: "Intro to SQL: BigQuery"
+#   url: https://www.kaggle.com/learn/intro-to-sql
+
+- certificate_url: "certificates/advanced-sql.png"
   date_end: ""
   date_start: "2021-10-01"
   description: "JOINs and UNIONs, Analytic Functions, Nested and Repeated Data, Writing Efficient Queries"
   organization: Kaggle
-  organization_url: https://www.kaggle.com
+  organization_url: https://www.kaggle.com/learn
   title: "Advanced SQL: BigQuery"
   url: https://www.kaggle.com/learn/advanced-sql
 
